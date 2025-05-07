@@ -37,7 +37,7 @@ include:
   - _pages
 
 url: "https://uvicaiclub.github.io"
-baseurl: "/club_website"
+baseurl: "/clubwebsite"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
