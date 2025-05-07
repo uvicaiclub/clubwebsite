@@ -28,7 +28,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -36,8 +36,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
-url: "https://uvicaiclub.github.io"
-baseurl: "/club_website"
+#url: "https://uvicaiclub.github.io"
+#baseurl: "/club_website"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -93,7 +93,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
@@ -104,7 +104,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
