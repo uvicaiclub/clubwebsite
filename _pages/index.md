@@ -21,7 +21,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn Here"
-  - image_path: /assets/images/toxicology_16_9.jpg
+  - image_path: /assets/images/toxicology_16_9.JPG
     alt: "fully responsive"
     title: "Projects"
     excerpt: "Check out the various projects we've built as a club, as well as ongoing projects!"
