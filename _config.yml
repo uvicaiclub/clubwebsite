@@ -62,9 +62,9 @@ plugins:
   - jekyll-remote-theme   
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "UVic AI"
+  avatar : "/assets/images/UVICAI_logo.png"
+  bio    : "The University of Victoria's own hub for everything AI."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
