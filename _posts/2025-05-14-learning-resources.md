@@ -1,8 +1,10 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
+title: "Resources are hard"
+last_modified_at: 2025-05-14T16:20:02-05:00
+categories:
+  - Learning Resources
+tags:
+  - Resources
 ---
 
 # Resources are hard. 
