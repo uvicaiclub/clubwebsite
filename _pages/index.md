@@ -10,7 +10,7 @@ header:
   text_color:  "#1a1a1a"
   actions:
     - label: "<i class='fas fa-download'></i> Join our Discord Here"
-      url: "/docs/quick-start-guide/"
+      url: "https://discord.gg/CeMP2ebK"
 excerpt: >
     Welcome to UVicAI
 feature_row:

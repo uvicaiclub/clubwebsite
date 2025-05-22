@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: UVicAI
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Uvicai club website
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -66,30 +63,27 @@ author:
   avatar : "/assets/images/UVICAI_logo.png"
   bio    : "The University of Victoria's own hub for everything AI."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/UVicAI"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/uvicaiclub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/uvicaiclub/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/UVicAI"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/uvicaiclub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/uvicaiclub/"
 
 defaults:
   # _posts
@@ -97,6 +91,7 @@ defaults:
       path: ""
       type: posts
     values:
+      favicon: "/clubwebsite/assets/images/favicon.ico"
       layout: single
       author_profile: true
       read_time: true
