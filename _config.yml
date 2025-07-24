@@ -34,7 +34,7 @@ include:
   - _pages
 
 url: "https://uvicai.ca"
-baseurl: "/clubwebsite"
+baseurl: ""
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -91,7 +91,7 @@ defaults:
       path: ""
       type: posts
     values:
-      favicon: "/clubwebsite/assets/images/favicon.ico"
+      favicon: "/assets/images/favicon.ico"
       layout: single
       author_profile: true
       read_time: true
