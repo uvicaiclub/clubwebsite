@@ -1,2 +1,2 @@
 Website here:
-https://uvicaiclub.github.io/clubwebsite/
+https://uvicai.ca/
