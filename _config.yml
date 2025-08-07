@@ -58,6 +58,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme   
 
+favicon: /assets/images/favicon.ico
+
 author:
   name   : "UVic AI"
   avatar : "/assets/images/UVICAI_logo.png"
@@ -91,7 +93,6 @@ defaults:
       path: ""
       type: posts
     values:
-      favicon: "/clubwebsite/assets/images/favicon.ico"
       layout: single
       author_profile: true
       read_time: true
