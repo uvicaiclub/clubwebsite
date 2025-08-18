@@ -63,27 +63,27 @@ author:
   avatar : "/assets/images/UVICAI_logo.png"
   bio    : "The University of Victoria's own hub for everything AI."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/UVicAI"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/uvicaiclub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/uvicaiclub/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/UVicAI"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/UVicAI"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/uvicaiclub"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/uvicaiclub/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/UVicAI"
 
 defaults:
   # _posts

@@ -25,7 +25,7 @@ feature_row:
     alt: "fully responsive"
     title: "Projects"
     excerpt: "Check out the various projects we've built as a club, as well as ongoing projects!"
-    url: "/docs/layouts/"
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/cucai_pose_16_9.jpg
@@ -37,14 +37,15 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-We are a community of students from the University of Victoria working together to expand our knowledge of artificial intelligence and the surrounding ethics. We build machine learning models, organize and compete in competitions, discuss research, and host a [variety of events](https://uvicai.ca/events/) — from technical workshops and student presentations to larger public events with guest speakers.
+# Who we are  
+We are a community of students from the University of Victoria exploring artificial intelligence and its surrounding ethics. We build machine learning models, compete in competitions, share research, and host workshops and talks with guest speakers.  
 
-We also provide resources for members to find high impact jobs and internships, as well as volunteer our time to help with middle and high school programs that inspire the next generation of technical problem solvers.
+# Our Goal  
+Our aim is to help students connect with opportunities in AI and prepare for impactful careers. We believe AI will profoundly shape the future, and our community exists to support anyone interested in learning and contributing to that future.  
 
-We believe that AI will continue to have a profound impact on our world, with the potential to be either the worst or best thing that has ever happened to life on Earth. In the coming years, we as AI researchers, engineers, policy makers, and technology users have the opportunity/responsibility to steer toward a future in which all life flourishes, and UVic AI exists to help people get started and find a career that is both fulfilling and impactful.
+Everyone is welcome to join UVic AI, regardless of background or experience. You can connect with us through our Discord, by email, or by dropping in on one of our weekly meetings.  
 
-Everyone is welcome to join UVic AI, regardless of their level of education, technical skills, university major, or whether or not they even attend UVic. Feel free to join our Discord server, send us an email, or simply drop in on one of our weekly meetings or events!
-
-<3
+See you there 
+<3  
 
 {% include feature_row %}
