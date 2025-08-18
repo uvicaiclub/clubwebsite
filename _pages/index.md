@@ -37,10 +37,10 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-# Who we are  
+**About Us**<br>
 We are a community of students from the University of Victoria exploring artificial intelligence and its surrounding ethics. We build machine learning models, compete in competitions, share research, and host workshops and talks with guest speakers.  
 
-# Our Goal  
+**Our Goal**  
 Our aim is to help students connect with opportunities in AI and prepare for impactful careers. We believe AI will profoundly shape the future, and our community exists to support anyone interested in learning and contributing to that future.  
 
 Everyone is welcome to join UVic AI, regardless of background or experience. You can connect with us through our Discord, by email, or by dropping in on one of our weekly meetings.  
