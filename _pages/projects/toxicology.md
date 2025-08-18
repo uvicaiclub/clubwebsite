@@ -13,7 +13,7 @@ header:
 A model that uses the **Tox21 dataset** [1] to attempt to find a relationship between **molecular structure** and **relative toxicity**, along with a Streamlit web app for interaction.  
 
 
-![Toxicology Project Secondary Image](\assets\images\toxicology.jpg)  
+![Toxicology Project Secondary Image](\assets\images\toxicology.JPG)  
 
 
 <p>
