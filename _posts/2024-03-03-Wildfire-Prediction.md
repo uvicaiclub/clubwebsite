@@ -7,16 +7,8 @@ show_date: true
 read_time: true 
 show_tags: false 
 show_categories: false
-header:
-  overlay_image: assets/images/wildfire_group_img.jpg  
-  overlay_filter: 0.4
-  caption: "UVicAI — WildfireManagementRL Project"
 ---
 
-<!-- # WildfireManagementRL -->
-
-
-# WildfireManagementRL
 Simulating Responsive Action to Wildfire Disasters with Reinforcement Learning (RL)
 
 ![Wildfire Management - CUCAI 2024](/assets/images/wildfire_group_img.jpg)
@@ -25,27 +17,30 @@ Simulating Responsive Action to Wildfire Disasters with Reinforcement Learning (
 <a href="https://github.com/uvicaiclub/WildfireManagementRL" class="btn btn--primary">
   View GitHub for Code
 </a>
----
 
 
 ## 💖 Motivation
-Forest fires are a major source of air pollution, releasing vast amounts of CO₂ and posing serious risks to human infrastructure.  
-The costs of fire suppression in British Columbia alone are approaching **$1 billion per year**, and continue to rise.  
-This makes the development of intelligent, cost-effective wildfire management strategies an urgent research priority.
+Wildfires are among the most **destructive natural hazards** in Western Canada, contributing significantly to air pollution, ecological damage, and threats to human communities. In British Columbia, annual fire suppression costs are approaching **one billion dollars**, and the scale and intensity of fires continue to increase due to **climate change**.
+
+Developing **intelligent**, **adaptive**, and **cost‑effective wildfire response strategies** is becoming essential. Traditional planning methods struggle to keep pace with the complexity of modern fire behavior, making this an ideal domain for **machine learning research**.
 
 ---
 
 ## 📝 Background
-A wide range of **fire spread simulators** already exist, taking into account factors such as:
-- Elevation  
-- Wind  
-- Fuel type  
+A variety of fire spread simulators exist today, many of which incorporate **environmental factors** such as:
 
-These simulators are crucial for developing fire management plans, but they typically **exclude human intervention** from the spread dynamics.  
+- Terrain elevation
+- Wind speed and direction
+- Vegetation and fuel type
 
-Previous attempts to introduce **reinforcement learning (RL) agents** into wildfire simulations have shown promise, but:
-- Their underlying simulators often lack realism  
-- The actions available to agents don’t reflect the **true operations of fire crews**  
+These tools are invaluable for **forecasting fire behavior**, but they generally treat the fire as an uncontrolled physical process. Human intervention—arguably the most important variable in real wildfire response—is often missing from the simulation loop.
+
+Previous research has attempted to introduce **reinforcement learning (RL)**nagents into wildfire environments, but these efforts face two major limitations:
+
+- The simulators used are often too simplified to reflect real fire dynamics
+- The available agent actions rarely resemble the operational decisions made by actual fire crews
+
+As a result, RL agents may learn strategies that perform well in simulation but fail to translate to real‑world scenarios.
 
 ---
 

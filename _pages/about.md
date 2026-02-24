@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-We are are club that meets both in-person and online at the University of Victoria to collaborate. These meetings are often once a week in the evenings. We hold a variety of opinions about AI and aim to better understand its utility in advancing science and technology. We are also aware of the large and growing negative impacts.
+We are a community of students at the University of Victoria exploring artificial intelligence from both technical and ethical perspectives. Our group meets biweekly online and in-person to facilitate discussion, work on projects, host workshops, present lectures, and help students deepen their understanding of AI. Everyone is welcome to join: no prior experience required!
 
-You can reach out by email: uvicaiclub at gmail.com
+If you need to reach us by email: uvicaiclub at gmail.com 
+
 Our primary organization tool is through [Discord](https://discord.com/invite/zbBNT8Spjf).
