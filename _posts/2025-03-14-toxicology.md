@@ -1,6 +1,5 @@
 ---
 title: "Toxicology Prediction"
-permalink: /projects/toxicology/
 layout: single
 author_profile: true
 header:

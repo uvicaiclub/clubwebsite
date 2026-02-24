@@ -1,11 +1,6 @@
 ---
 title: "AI Ethics Reading Group"
 excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Interpretability
-  - Reading Group
 ---
 
 ### Note: This reading group does no longer run. With sufficient interest we can bring this back. Feel free to email us if you want this to come back. 

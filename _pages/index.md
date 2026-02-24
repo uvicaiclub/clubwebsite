@@ -18,21 +18,21 @@ feature_row:
     alt: "Workshops and Lectures"
     title: "Learning Resources"
     excerpt: "Resources made by various members of the UVicAI club, from lecture slides to colab notebooks."
-    url: "/docs/configuration/"
+    url: "/2025/05/14/learning-resources.html"
     btn_class: "btn--primary"
     btn_label: "Learn Here"
   - image_path: /assets/images/toxicology_16_9.JPG
     alt: "fully responsive"
     title: "Projects"
     excerpt: "Check out the various projects we've built as a club, as well as ongoing projects!"
-    url: "/projects/"
+    url: "/posts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/cucai_pose_16_9.jpg
+  - image_path: /assets/images/cucai_pose_16_9.jpg # point to the about page
     alt: "Contact"
     title: "Contact Us"
     excerpt: "Let's have a chat"
-    url: "/docs/license/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
