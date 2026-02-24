@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Toxicology Prediction"
 permalink: /projects/toxicology/
 layout: single
@@ -7,13 +7,18 @@ header:
   overlay_image: assets\images\theanine.png 
   overlay_filter: 0.4
   caption: "UVicAI — Toxicology Prediction Project"
+--- -->
+---
+title: "Toxicology Prediction"
+excerpt_separator: "<!--more-->"
+
 ---
 
-# Toxicology-Prediction 
-A model that uses the **Tox21 dataset** [1] to attempt to find a relationship between **molecular structure** and **relative toxicity**, along with a Streamlit web app for interaction.  
+
+A machine learning model trained on **Toxicity data** [1] for over 8,000 molecules in attempt to find a relationship between **molecular structure** and **relative toxicity**. This project was then deployed along with a Streamlit web app for user interaction.  
 
 
-![Toxicology Project Secondary Image](\assets\images\toxicology.JPG)  
+![Toxicology Project Secondary Image](/assets/images/toxicology.JPG)  
 
 
 <p>
@@ -22,15 +27,12 @@ A model that uses the **Tox21 dataset** [1] to attempt to find a relationship be
   </a>
 </p>
 
-
 ---
 
 ## 💡 Inspiration
-A study from the **American Society for Biochemistry and Molecular Biology (ASBMB)** reports that:  
-- **90% of drugs fail clinical testing**  
-- **30% of failures** are due to **molecular toxicity** [2]  
+Drug discovery remains one of the most resource‑intensive challenges in modern biomedical research. **According to the American Society for Biochemistry and Molecular Biology (ASBMB)** [2], approximately **90% of drug candidates fail during clinical testing**, with **molecular toxicity accounting for nearly one‑third of these failures**. These setbacks translate into billions of dollars of substantial financial losses and slow development of urgently needed therapeutics.
 
-These failures result in **billions of dollars in losses** for pharmaceutical companies.  
+Understanding and predicting toxicity earlier in the drug development pipeline could dramatically reduce these costs. Traditional experimental approaches, while essential, are slow and expensive. Computational methods offer a promising complement, but many existing models struggle to generalize across diverse chemical structures or provide interpretable insights into why a compound may be harmful.
 
 Our project addresses this challenge by:  
 - Developing a **machine learning model** that predicts toxicity directly from **molecular structure**  
@@ -39,7 +41,9 @@ Our project addresses this challenge by:
 
 ---
 
-⚛️ By combining machine learning with chemistry fundamentals, this project explores how AI can help **reduce drug failure rates**, save costs, and accelerate pharmaceutical research.  
+## ⚛️ Innovation
+
+By integrating machine learning with chemical domain knowledge, this project explores how **computational tools** can support safer, more efficient drug development and help reduce the high failure rates that currently burden the pharmaceutical industry.
 
 ---
 

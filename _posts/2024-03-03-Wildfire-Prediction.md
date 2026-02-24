@@ -1,6 +1,8 @@
 ---
 title: "Wildfire Prediction"
+date: 2024-04-18T15:34:30-04:00
 excerpt_separator: "<!--more-->"
+
 ---
 
 Simulating Responsive Action to Wildfire Disasters with Reinforcement Learning (RL)
@@ -29,7 +31,7 @@ A variety of fire spread simulators exist today, many of which incorporate **env
 
 These tools are invaluable for **forecasting fire behavior**, but they generally treat the fire as an uncontrolled physical process. Human intervention—arguably the most important variable in real wildfire response—is often missing from the simulation loop.
 
-Previous research has attempted to introduce **reinforcement learning (RL)**nagents into wildfire environments, but these efforts face two major limitations:
+Previous research has attempted to introduce **reinforcement learning (RL)** agents into wildfire environments, but these efforts face two major limitations:
 
 - The simulators used are often too simplified to reflect real fire dynamics
 - The available agent actions rarely resemble the operational decisions made by actual fire crews
