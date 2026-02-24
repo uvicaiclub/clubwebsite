@@ -1,11 +1,6 @@
 ---
 title: "Toxicology Prediction"
-layout: single
-author_profile: true
-show_date: true 
-read_time: true 
-show_tags: false 
-show_categories: false
+excerpt_separator: "<!--more-->"
 
 ---
 

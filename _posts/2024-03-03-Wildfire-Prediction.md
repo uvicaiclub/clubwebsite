@@ -1,12 +1,6 @@
 ---
 title: "Wildfire Prediction"
-date: 2024-04-18T15:34:30-04:00
-layout: single
-author_profile: true
-show_date: true 
-read_time: true 
-show_tags: false 
-show_categories: false
+excerpt_separator: "<!--more-->"
 ---
 
 Simulating Responsive Action to Wildfire Disasters with Reinforcement Learning (RL)
