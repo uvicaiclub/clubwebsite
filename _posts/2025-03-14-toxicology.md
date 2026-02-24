@@ -2,17 +2,23 @@
 title: "Toxicology Prediction"
 layout: single
 author_profile: true
+show_date: true 
+read_time: true 
+show_tags: false 
+show_categories: false
 header:
-  overlay_image: assets\images\theanine.png 
+  overlay_image: assets/images/theanine.png 
   overlay_filter: 0.4
   caption: "UVicAI — Toxicology Prediction Project"
 ---
+
+<!-- # Toxicology-Prediction -->
 
 # Toxicology-Prediction 
 A model that uses the **Tox21 dataset** [1] to attempt to find a relationship between **molecular structure** and **relative toxicity**, along with a Streamlit web app for interaction.  
 
 
-![Toxicology Project Secondary Image](\assets\images\toxicology.JPG)  
+![Toxicology Project Secondary Image](/assets/images/toxicology.JPG)  
 
 
 <p>
@@ -20,7 +26,6 @@ A model that uses the **Tox21 dataset** [1] to attempt to find a relationship be
     View GitHub for code
   </a>
 </p>
-
 
 ---
 

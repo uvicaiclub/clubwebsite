@@ -3,16 +3,23 @@ title: "Wildfire Prediction"
 date: 2024-04-18T15:34:30-04:00
 layout: single
 author_profile: true
+show_date: true 
+read_time: true 
+show_tags: false 
+show_categories: false
 header:
-  overlay_image: assets\images\wildfire_group_img.jpg  
-  overlay_filter: 0.4                                 # darkens image for better text contrast
+  overlay_image: assets/images/wildfire_group_img.jpg  
+  overlay_filter: 0.4
   caption: "UVicAI — WildfireManagementRL Project"
-
 ---
+
+<!-- # WildfireManagementRL -->
+
+
 # WildfireManagementRL
 Simulating Responsive Action to Wildfire Disasters with Reinforcement Learning (RL)
 
-![Wildfire Management - CUCAI 2024](\assets\images\wildfire_group_img.jpg)
+![Wildfire Management - CUCAI 2024](/assets/images/wildfire_group_img.jpg)
 
 
 <a href="https://github.com/uvicaiclub/WildfireManagementRL" class="btn btn--primary">
