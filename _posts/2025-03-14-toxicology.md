@@ -1,5 +1,5 @@
 ---
-title: "Toxicology Prediction"
+title: "Modeling Chemical Toxicology with Machine learning"
 excerpt_separator: "<!--more-->"
 
 ---
